@@ -1,0 +1,21 @@
+#table{
+  border-collapse: collapse;
+}
+#table,#table tr, #table th{
+    margin: 0;
+    padding: 0;
+}
+#table ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#table th{
+    background-color: #c7ecee;
+    padding:5px;
+}
+#table td{
+    padding: 5px;
+    background-color: #95afc0;
+    border-bottom: solid 1px rgba(255,255,255,.8);
+}
